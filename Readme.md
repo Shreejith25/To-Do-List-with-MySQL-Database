@@ -23,6 +23,3 @@ A simple command-line To-Do List application built with Python and MySQL. Easily
 4. Run the app:  
     `python todo.py`
 
-## License
-
-MIT License
